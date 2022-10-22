@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "/workspace/Algorithm_n_DataStructure/Chapter3/3-4",
+      "cwd": "/workspace/Algorithm_n_DataStructure/Chapter3/3-5",
       "environment": [],
-      "program": "/workspace/Algorithm_n_DataStructure/Chapter3/3-4/build/Debug/outDebug",
+      "program": "/workspace/Algorithm_n_DataStructure/Chapter3/3-5/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "/usr/bin/gdb",
